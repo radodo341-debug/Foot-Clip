@@ -1,0 +1,4 @@
+# Optional SoccerNet action-spotting dependencies. Install in a separate Python 3.12+ environment.
+# OpenSportsLib model card: AGPL-3.0 for open source/research; commercial licensing requires permission.
+opensportslib
+huggingface_hub
